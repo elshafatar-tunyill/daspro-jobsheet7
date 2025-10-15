@@ -21,6 +21,7 @@ public class tugas2 {
         } while (jenis != 0);
         System.out.println("Total Pendapatan Parkir: Rp." + total);
         sc.close();
+        
     }
 }
 
